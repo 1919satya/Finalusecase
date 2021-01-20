@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "sai",
+      "emailId": "pulletikurthi.sai@hcl.com",
+      "address": {
+        "country": "india",
+        "pincode": "534269",
+        "state": "andhraPradesh"
+      },
+      "id": 1
+    },
+    {
+      "name": "b",
+      "emailId": "b@gmail.com",
+      "address": {
+        "country": "india",
+        "pincode": "534268",
+        "state": "andhraPradesh",
+        "balance": 300
+      },
+      "id": 2
+    }
+  ]
+}
